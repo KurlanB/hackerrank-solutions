@@ -6,6 +6,11 @@
 // Language    java15
 // Status      Accepted
 // Submitted   2026-06-04, 04:44 p.m.
+// Technique   arithmetic-summation
+// Time        O(1)
+// Space       O(1)
+// Trick       Perform a direct integer addition of two inputs using the plus operator to return the sum immediately.
+// Hint        Use Scanner for standard input reading.
 // ──────────────────────────────────────────────────
 
 import java.util.*;
