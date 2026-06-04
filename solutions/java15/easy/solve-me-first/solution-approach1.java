@@ -1,0 +1,32 @@
+// ──────────────────────────────────────────────────
+// Problem     Solve Me First
+// Difficulty  Easy
+// Subdomain   Warmup
+// Platform    HackerRank
+// Language    java15
+// Status      Accepted
+// Submitted   2026-06-04, 04:44 p.m.
+// ──────────────────────────────────────────────────
+
+import java.util.*;
+
+public class Solution {
+
+    static int solveMeFirst(int a, int b) {
+      // Hint: Type return a+b; below 
+      return a+b;
+	}
+
+  
+   public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int a;
+        a = in.nextInt();
+        int b;
+        b = in.nextInt();
+        in.close();
+        int sum;
+        sum = solveMeFirst(a, b);
+        System.out.println(sum);
+	}
+}
