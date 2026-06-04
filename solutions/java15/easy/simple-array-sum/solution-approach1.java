@@ -6,6 +6,11 @@
 // Language    java15
 // Status      Accepted
 // Submitted   2026-06-04, 05:12 p.m.
+// Technique   enhanced-for-loop
+// Time        O(n)
+// Space       O(1)
+// Trick       Iterate through the list using an enhanced for-loop to accumulate values into a primitive integer variable.
+// Hint        Use Integer unboxing to simplify summation logic.
 // ──────────────────────────────────────────────────
 
 import java.io.*;
